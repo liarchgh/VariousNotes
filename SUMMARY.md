@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+* [Description](README.md)
+* [Image Hosting Web Site](Image_Hosting_Web_Site.md)
