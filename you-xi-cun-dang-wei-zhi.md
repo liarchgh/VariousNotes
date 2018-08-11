@@ -12,4 +12,10 @@ Win10下游戏的存档目录
 ```C:\Users\主机名\AppData\Roaming\DarkSoulsIII\0140000100000001（根据角色名不同，数字会有所区别）```
 
 ## SUPERHOT (steam)
-C:\Users\用户名\AppData\LocalLow\SUPERHOT_Team\SUPERHOT
+```C:\Users\用户名\AppData\LocalLow\SUPERHOT_Team\SUPERHOT```
+
+## [STEEP (Uplay)](https://steamcn.com/t232432-1-1)
+```...\Ubisoft Game Launcher\savegames\f0904489-3b13-459b-b4f8-7e2d711648e3\3279```
+
+# Ref
+[Uplay游戏存档对应的文件夹编号](https://steamcn.com/t232432-1-1)
