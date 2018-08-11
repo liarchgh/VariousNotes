@@ -17,5 +17,8 @@ Win10下游戏的存档目录
 ## [STEEP (Uplay)](https://steamcn.com/t232432-1-1)
 ```...\Ubisoft Game Launcher\savegames\f0904489-3b13-459b-b4f8-7e2d711648e3\3279```
 
+## [Dead Cells (steam)](http://pc.tgbus.com/danji_207/87823/)
+```...\steam\userdata\348493882\588650\remote\```
+
 # Ref
 [Uplay游戏存档对应的文件夹编号](https://steamcn.com/t232432-1-1)
