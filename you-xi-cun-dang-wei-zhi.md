@@ -41,10 +41,8 @@ C:\Users\用户名\AppData\LocalLow\SUPERHOT_Team\SUPERHOT
 ## The Binding of Isaac Rebirth \(steam\)
 
 ```
-C:\Users\用户名\Documents\My Games\Binding of Isaac Afterbirth
+...\Steam\userdata\341810886\250900\remote
 ```
-
-PS.存储位置会以文本的形式存储在以撒的安装目录下，路径样式为`...\steamapps\common\The Binding of Isaac Rebirth\savedatapath.txt`
 
 # Ref
 
