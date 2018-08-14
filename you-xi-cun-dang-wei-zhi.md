@@ -20,5 +20,9 @@ Win10下游戏的存档目录
 ## [Dead Cells (steam)](http://pc.tgbus.com/danji_207/87823/)
 ```...\steam\userdata\348493882\588650\remote\```
 
+## The Binding of Isaac Rebirth (steam)
+```C:\Users\用户名\Documents\My Games\Binding of Isaac Afterbirth```  
+PS.存储位置会存储在以撒的安装目录下，如```...\steamapps\common\The Binding of Isaac Rebirth\savedatapath.txt```
+
 # Ref
 [Uplay游戏存档对应的文件夹编号](https://steamcn.com/t232432-1-1)
