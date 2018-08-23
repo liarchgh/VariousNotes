@@ -120,6 +120,8 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
           - ./*.pdf
 ```
 
+#### 最终决定
+就这样吧，暂时使用gitbook，同时gitlab的自动部署也开着。如果之后gitbook免费期结束后加太多限制的话，就用自己服务器配置成gitlab外加github page来自动生成网页部署。
 
 ### 拉取gitbook远程分支
 
