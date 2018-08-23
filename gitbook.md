@@ -18,7 +18,7 @@
     gitbook init
 ```
 
-### 构建服务器
+### <span id="构建服务器">构建服务器</span>
 ```shell
     gitbook serve
 ```
@@ -74,7 +74,7 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
     gitbook fetch
 ```
 
-我在使用[构建服务器](构建服务器)时出现了Error
+我在使用[构建服务器](#构建服务器)时出现了Error
 ```
 Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Projects/GitBook/Import/unity3dblog/_book/gitbook/gitbook-plugin-sharing/buttons.js'
 ```
