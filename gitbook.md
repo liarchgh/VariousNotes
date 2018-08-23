@@ -47,9 +47,10 @@ Install it from Calibre: https://calibre-ebook.com
 ```
 * 按照提示
 去了[calibre-ebook](https://calibre-ebook.com)的网站，按照[linux的下载页面](https://calibre-ebook.com/download_linux)提示执行了shell命令
-```
+```shell
 sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
 ```
+期间下载`calibre-3.29.0-x86_64.txz`的速度极慢
 * 再次执行命令
 提示
 ```
@@ -66,7 +67,16 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
     info: >> generation finished with success in 3.5s !
     info: >> 1 file(s) generated
 ```
-成功~
+成功~，然而这只是没有图片的情况，我在有图片的项目中导出pdf时提示：
+```
+    InstallRequiredError: "svgexport" is not installed.
+    Install it using: "npm install svgexport -g"
+```
+* 按照提示执行命令：
+```shell
+    sudo npm install svgexport -g
+```
+下载`phantomjs-2.1.1-linux-x86_64.tar.bz2`，速度依然极慢
 
 ### 拉取gitbook远程分支
 
