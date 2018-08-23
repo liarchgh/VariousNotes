@@ -45,10 +45,28 @@
 InstallRequiredError: "ebook-convert" is not installed.
 Install it from Calibre: https://calibre-ebook.com
 ```
-按照提示去了[calibre-ebook](https://calibre-ebook.com)的网站，按照[linux的下载页面](https://calibre-ebook.com/download_linux)提示执行了shell命令
+* 按照提示
+去了[calibre-ebook](https://calibre-ebook.com)的网站，按照[linux的下载页面](https://calibre-ebook.com/download_linux)提示执行了shell命令
 ```
 sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
 ```
+* 再次执行命令
+提示
+```
+    info: 7 plugins are installed
+    info: 6 explicitly listed
+    info: loading plugin "highlight"... OK
+    info: loading plugin "search"... OK
+    info: loading plugin "lunr"... OK
+    info: loading plugin "sharing"... OK
+    info: loading plugin "fontsettings"... OK
+    info: loading plugin "theme-default"... OK
+    info: found 1 pages
+    info: found 0 asset files
+    info: >> generation finished with success in 3.5s !
+    info: >> 1 file(s) generated
+```
+成功~
 
 ### 拉取gitbook远程分支
 
