@@ -79,6 +79,7 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
     sudo npm install svgexport -g
 ```
 下载`phantomjs-2.1.1-linux-x86_64.tar.bz2`，速度依然极慢
+* 再次执行导出pdf命令成功，然而结果和下面一样，没有汉字
 
 #### Docker
 上一种方法配置到一半太浪费事件，我就自己去使用了gitlab的ci服务，会在用户Commit的时候根据工程根目录下`.gitlab-ci.yml`的文件中的配置来编译工程，以下是一次使用的配置
