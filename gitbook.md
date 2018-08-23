@@ -22,6 +22,7 @@
 ```shell
     gitbook serve
 ```
+有时报错缺失文件，通过[github上的issue](https://github.com/GitbookIO/gitbook/issues/1309)里面的解决方案直接到正常的文件里复制过来就好了
 
 动态，不会生成静态页面
 
