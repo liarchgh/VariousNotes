@@ -38,6 +38,7 @@
     gitbook pdf 工程目录
 ```
 
+#### 本机配置环境
 命令很简单，但是需要做很多准备工作，最开始上网上直接搜索到处pdf的教程，都用不了，现在准备按照gitbook-cli的文档来试一试，以下时详细过程(环境:WSL Ubuntu18.04)：
 
 * 直接执行命令
@@ -78,6 +79,46 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
     sudo npm install svgexport -g
 ```
 下载`phantomjs-2.1.1-linux-x86_64.tar.bz2`，速度依然极慢
+
+#### Docker
+上一种方法配置到一半太浪费事件，我就自己去使用了gitlab的ci服务，会在用户Commit的时候根据工程根目录下`.gitlab-ci.yml`的文件中的配置来编译工程，以下是一次使用的配置
+- 成功编译出静态页面并导出
+```
+    before_script:
+    - env
+    
+    stages:
+    - build
+    
+    ebook:
+      stage: build
+      image: fellah/gitbook
+      script:
+        - gitbook build
+      artifacts:
+        paths:
+          - _book/*
+```
+- 成功编译出静态页面和PDF并导出，然而下载后发现PDF没有汉字
+```
+    before_script:
+    - env
+    
+    stages:
+    - build
+    
+    ebook:
+      stage: build
+      image: billryan/gitbook
+      script:
+        - gitbook build
+        - gitbook pdf
+      artifacts:
+        paths:
+          - _book/*
+          - ./*.pdf
+```
+
 
 ### 拉取gitbook远程分支
 
