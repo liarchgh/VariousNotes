@@ -188,3 +188,4 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 ### [Greenkeeper](https://greenkeeper.io/docs)
 - 需要为使用的github项目库安装[类似插件的东西](https://github.com/settings/installations/302477)
 - 直接使用github登录
+- 需要为github项目开启CI，我使用了[Travis-CI](https://github.com/nukc/how-to-use-travis-ci)
