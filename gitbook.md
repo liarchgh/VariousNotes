@@ -134,3 +134,15 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
 Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Projects/GitBook/Import/unity3dblog/_book/gitbook/gitbook-plugin-sharing/buttons.js'
 ```
 
+## 在线网站比较
+### 北半球
+
+优点：
+- 访问速度快
+- 能导出工程
+- 能从网络链接导入文章
+- 能从html源码导入文章
+缺点：
+- 访问不稳定，有时连不上
+- 不能导出pdf或者静态网页
+- 不能使用git管理
