@@ -135,14 +135,21 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 ```
 
 ## 在线网站比较
-### 北半球
+### [北半球](https://www.beibq.cn/book/beibq_guide)
 
 优点：
 - 访问速度快
 - 能导出工程
 - 能从网络链接导入文章
 - 能从html源码导入文章
+
 缺点：
 - 访问不稳定，有时连不上
 - 不能导出pdf或者静态网页
 - 不能使用git管理
+
+### [看云]((https://help.kancloud.cn/41497)
+
+优点：
+
+缺点：
