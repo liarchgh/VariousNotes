@@ -161,7 +161,7 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 - 导出内容带有太多看云的标志
 - 不能和github或gitlab自动交互
 
-### [leanpub](https://leanpub.com/help)
+### [Leanpub](https://leanpub.com/help)
 
 优点：
 - 能导出pdf,epub,mobi,网页和在线预览
@@ -171,3 +171,9 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 缺点：
 - 工程目录格式与普通的gitbook不一样
 - 作者才能下载导出文件或者在线预览
+
+### [Penflip](https://www.penflip.com/Penflip/help/blob/master/getting-started/GeneralOverview.txt)
+
+优点：
+
+缺点：
