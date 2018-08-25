@@ -186,5 +186,5 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 - 不能在线预览
 
 ### [Greenkeeper](https://greenkeeper.io/docs)
-- 需要为使用的github项目库安装类似插件的东西
+- 需要为使用的github项目库安装[类似插件的东西](https://github.com/settings/installations/302477)
 - 直接使用github登录
