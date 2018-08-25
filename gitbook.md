@@ -175,5 +175,12 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 ### [Penflip](https://www.penflip.com/Penflip/help/blob/master/getting-started/GeneralOverview.txt)
 
 优点：
+- 可以导出PDF,ePub,HTML,Word,text,source
+- 连接快速、稳定
+- 可使用git管理
+- 可使用ssh
+- 在线编辑
 
 缺点：
+- 不能和github或者gitlab交互
+- 不能在线预览
