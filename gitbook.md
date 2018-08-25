@@ -148,7 +148,7 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 - 不能导出pdf或者静态网页
 - 不能使用git管理
 
-### [看云]((https://help.kancloud.cn/41497)
+### [看云](https://help.kancloud.cn/41497)
 
 优点：
 - 可以安装一些插件，虽然量佷少
@@ -159,3 +159,15 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 
 缺点：
 - 导出内容带有太多看云的标志
+- 不能和github或gitlab自动交互
+
+### [leanpub](https://leanpub.com/help)
+
+优点：
+- 能导出pdf,epub,mobi,网页和在线预览
+- 直接使用github工程管理
+- 连接稳定
+
+缺点：
+- 工程目录格式与普通的gitbook不一样
+- 作者才能下载导出文件或者在线预览
