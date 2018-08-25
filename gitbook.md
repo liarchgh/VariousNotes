@@ -153,7 +153,9 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 优点：
 - 可以安装一些插件，虽然量佷少
 - 访问速度快
+- 能使用git管理
+- 能导出pdf或者静态网页
+- 支持使用gitlab定制文件进行处自动发布
 
 缺点：
-- 不能导出pdf或者静态网页
-- 不能使用git管理
+- 导出内容带有太多看云的标志
