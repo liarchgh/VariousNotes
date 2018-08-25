@@ -151,5 +151,9 @@ Error: ENOENT: no such file or directory, stat'/mnt/c/Users/LeeSue/Documents/Pro
 ### [看云]((https://help.kancloud.cn/41497)
 
 优点：
+- 可以安装一些插件，虽然量佷少
+- 访问速度快
 
 缺点：
+- 不能导出pdf或者静态网页
+- 不能使用git管理
