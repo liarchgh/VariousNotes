@@ -2,7 +2,7 @@
 
 ## System Tool
 
-- (Dism++)[https://www.chuyu.me/zh-Hans/index.html]
+- [Dism++](https://www.chuyu.me/zh-Hans/index.html)
 
 - CCleaner
 
@@ -12,10 +12,10 @@
 
 - WindowsDefender
 
-- (火绒)[https://www.huorong.cn/]
+- [火绒](https://www.huorong.cn/)
 
 ## Web Browser
 
-- (Firefox)[https://www.mozilla.org/zh-CN/firefox/]  
+- [Firefox](https://www.mozilla.org/zh-CN/firefox/)
 
-(Not Stable Versions)[https://www.mozilla.org/zh-CN/firefox/channel/desktop/]
+[Not Stable Versions](https://www.mozilla.org/zh-CN/firefox/channel/desktop/)
