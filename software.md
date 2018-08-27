@@ -19,3 +19,7 @@
 - [Firefox](https://www.mozilla.org/zh-CN/firefox/)
 
 [Not Stable Versions](https://www.mozilla.org/zh-CN/firefox/channel/desktop/)
+
+- [Chrome](https://www.google.com/chrome/)
+
+- Edge
