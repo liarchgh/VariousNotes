@@ -7,4 +7,5 @@
 * [GitBook](gitbook.md)
 * [字符画](zi-fu-hua.md)
 * [UsefulSoftware](software.md)
+* [Python3](python3.md)
 
