@@ -35,3 +35,7 @@ Python同样支持运算符重载，我们可以对类的专有方法进行重�
 
 直接使用text然后保存字符串到本地文件会出现乱码  
 之后采用了直接以字节形式保存get结果中得content属性至文件中，中文不再乱码
+
+### [Beautiful Soup](https://cuiqingcai.com/1319.html)
+
+推荐lxml，一并安装了试试看
