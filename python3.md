@@ -31,14 +31,11 @@
 
 Python同样支持运算符重载，我们可以对类的专有方法进行重载，例如重写`__add__`方法
 
-### [保存网页到本地](https://blog.csdn.net/chaowanghn/article/details/54889835)
-
-直接使用text然后保存字符串到本地文件会出现乱码  
-之后采用了直接以字节形式保存get结果中得content属性至文件中，中文不再乱码
 
 ### [Beautiful Soup](https://cuiqingcai.com/1319.html)
 
-推荐lxml，一并安装了试试看
+推荐lxml，一并安装了试试看  
+使用很简单，一些地方确实比正则表达式要方便
 
 ### 文件操作
 
@@ -47,3 +44,8 @@ Python同样支持运算符重载，我们可以对类的专有方法进行重�
 - 使用`codecs`模块打开文件，例如：`codecs.open("text", "w", "utf-8")`
 
 - 使用wb模式打开文件，例如：`open("text", "wb")`，然后写入时自己手动将字符串转换为想要的编码下的字节序列
+
+#### [保存网页到本地](https://blog.csdn.net/chaowanghn/article/details/54889835)
+
+直接使用text然后保存字符串到本地文件会出现乱码
+之后采用了直接以字节形式保存get结果中得content属性至文件中，中文不再乱码
