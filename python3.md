@@ -39,3 +39,11 @@ Python同样支持运算符重载，我们可以对类的专有方法进行重�
 ### [Beautiful Soup](https://cuiqingcai.com/1319.html)
 
 推荐lxml，一并安装了试试看
+
+### 文件操作
+
+写utf-8文件不能直接用w模式得open，字符串会被编码为系统默认编码，解决方法：
+
+- 使用`codecs`模块打开文件，例如：`codecs.open("text", "w", "utf-8")`
+
+- 使用wb模式打开文件，例如：`open("text", "wb")`，然后写入时自己手动将字符串转换为想要的编码下的字节序列
