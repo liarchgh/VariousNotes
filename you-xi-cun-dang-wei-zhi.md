@@ -44,6 +44,11 @@ C:\Users\用户名\AppData\LocalLow\SUPERHOT_Team\SUPERHOT
 ...\Steam\userdata\341810886\250900\remote
 ```
 
+## Enter the Gungeon
+```
+C:\Users\用户名\AppData\LocalLow\Dodge Roll\Enter the Gungeon
+```
+
 # Ref
 
 [Uplay游戏存档对应的文件夹编号](https://steamcn.com/t232432-1-1)
