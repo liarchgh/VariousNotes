@@ -61,8 +61,9 @@ C:\Users\用户名\AppData\LocalLow\Dodge Roll\Enter the Gungeon
 
 ## [Stellaris](http://www.newyx.net/gl/409751_1.htm)
 ```
-...\Documents\Paradox Interactive\Stellaris\save games
+...\Documents\Paradox Interactive\Stellaris
 ```
+include save ,setting, mods and so on
 
 # Ref
 
