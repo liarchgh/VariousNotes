@@ -59,6 +59,11 @@ C:\Users\用户名\AppData\LocalLow\Dodge Roll\Enter the Gungeon
 ...\Steam\userdata\341810886\219990\remote\save
 ```
 
+## [Stellaris](http://www.newyx.net/gl/409751_1.htm)
+```
+...\Documents\Paradox Interactive\Stellaris\save games
+```
+
 # Ref
 
 [Uplay游戏存档对应的文件夹编号](https://steamcn.com/t232432-1-1)
