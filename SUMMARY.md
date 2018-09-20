@@ -9,4 +9,6 @@
 * [UsefulSoftware](software.md)
 * [Python3](python3.md)
 * [Git](git.md)
+* [Linux应用](linuxying-yong.md)
+* [python应用](pythonying-yong.md)
 
