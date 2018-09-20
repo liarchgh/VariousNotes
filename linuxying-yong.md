@@ -21,3 +21,19 @@
 ### [Vim](https://github.com/vim/vimhttps://www.vim.org/)
 
 ### [Git](https://git-scm.com/)
+
+### [python](https://www.python.org/)
+
+配套pip又有了一套环境
+
+### [w3m](http://w3m.sourceforge.net/)
+
+终端网页浏览器
+
+### [lynx](https://lynx.browser.org/)
+
+终端网页浏览器
+
+### [Terminology](https://www.enlightenment.org/about-terminology.md)
+
+各种终端工具,需要桌面
