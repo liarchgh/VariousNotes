@@ -37,3 +37,7 @@
 ### [Terminology](https://www.enlightenment.org/about-terminology.md)
 
 各种终端工具,需要桌面
+
+### [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
+
+GitBook终端工具，可导出静态网页和PDF
