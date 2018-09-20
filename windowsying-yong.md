@@ -47,26 +47,39 @@ windows上自带的的linux内核
 
 ### [Mouse without Borders](http://aka.ms/mm)
 
+多Windows设备共用一套键鼠，可共享剪切板、快速拖拽文件
+
 [x86下载](https://www.microsoft.com/en-us/download/confirmation.aspx?id=35460)
 
 ### [Unity Hub](https://forum.unity.com/forums/unity-hub.142/)
+
+Unity3D项目、多版本管理器，内部可下载各版本
 
 [x86下载](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)
 
 ### [Notepad++](https://notepad-plus-plus.org/)
 
+文本编辑器，打开文件很快
+
 [x64下载](https://notepad-plus-plus.org/repository/7.x/7.5.8/npp.7.5.8.Installer.x64.exe)
 
 ### [Bandizip](https://www.bandisoft.com/bandizip/)
+
+压缩软件，多格式，自带文本编码转化
 
 [x86 Installer](https://www.bandisoft.com/bandizip/dl.php?web)
 [x64 Portable](https://www.bandisoft.com/bandizip/dl.php?portable64)
 [x86 Portable](https://www.bandisoft.com/bandizip/dl.php?portable)
 
 ### [PotPlayer](https://potplayer.daum.net/)
+
+视频播放器
+
 [x64 Installer](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 
 ### [OBS](https://obsproject.com/)
+
+直播、录屏软件
 
 [下载](https://github.com/obsproject/obs-studio/releases)
 
@@ -80,8 +93,12 @@ windows上自带的的linux内核
 
 ### [QuickLook](https://github.com/QL-Win/QuickLook)
 
+文件快速预览
+
 [Win10应用商店安装](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s?ocid=badge&rtc=1#activetab=pivot:overviewtab)
 
 ### [Microsoft To-Do](https://notepad-plus-plus.org/)
+
+To Do List 应用
 
 [Win10应用商店安装](https://www.microsoft.com/en-us/p/microsoft-to-do/9nblggh5r558?rtc=1#activetab=pivot:overviewtab)
