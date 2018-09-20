@@ -34,18 +34,54 @@ windows上自带的的linux内核
 
 游戏时电脑自动加速，更重要的是存档管理，可以使用OneDrive和GoogleDrive
 
-## [spacedesk](https://www.spacedesk.net/)
+### [spacedesk](https://www.spacedesk.net/)
 
 移动设备作为电脑扩展屏幕
+[Win10x64下载](https://www.spacedesk.net/downloadidd64)
+
+### [Pan Download](https://pandownload.com/)
+
+百度云下载工具，超好用
+
+[x86下载](http://pandownload.com/2.0.1)
+
+### [Mouse without Borders](http://aka.ms/mm)
+
+[x86下载](https://www.microsoft.com/en-us/download/confirmation.aspx?id=35460)
+
+### [Unity Hub](https://forum.unity.com/forums/unity-hub.142/)
+
+[x86下载](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)
+
+### [Notepad++](https://notepad-plus-plus.org/)
+
+[x64下载](https://notepad-plus-plus.org/repository/7.x/7.5.8/npp.7.5.8.Installer.x64.exe)
+
+### [Bandizip](https://www.bandisoft.com/bandizip/)
+
+[x86 Installer](https://www.bandisoft.com/bandizip/dl.php?web)
+[x64 Portable](https://www.bandisoft.com/bandizip/dl.php?portable64)
+[x86 Portable](https://www.bandisoft.com/bandizip/dl.php?portable)
+
+### [PotPlayer](https://potplayer.daum.net/)
+[x64 Installer](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
+
+### [OBS](https://obsproject.com/)
+
+[下载](https://github.com/obsproject/obs-studio/releases)
 
 ## 应用商店
 
-## [OneQuick](https://onequick.org)
+### [OneQuick](https://onequick.org)
 
 [Win10应用商店安装](https://onequick.org/download?open=1)
 
 屏幕边缘操作
 
-## [QuickLook](https://github.com/QL-Win/QuickLook)
+### [QuickLook](https://github.com/QL-Win/QuickLook)
 
 [Win10应用商店安装](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s?ocid=badge&rtc=1#activetab=pivot:overviewtab)
+
+### [Microsoft To-Do](https://notepad-plus-plus.org/)
+
+[Win10应用商店安装](https://www.microsoft.com/en-us/p/microsoft-to-do/9nblggh5r558?rtc=1#activetab=pivot:overviewtab)
