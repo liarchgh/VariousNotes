@@ -14,6 +14,12 @@ All in [a store of jd](https://mall.jd.com/index-153636.html)
 
 NAS
 
+### [树莓派远程桌面连接-使用Windows自带远程桌面连接工具](https://blog.csdn.net/qq813480700/article/details/72598000)
+
+本来一开始要使用VcXsrv连接的，然而搞了半天没弄好
+
+### [安装火狐浏览器](https://my.oschina.net/menghaoqi/blog/760817)
+
 ## Software
 
 - [UFW防火墙](http://shumeipai.nxez.com/2014/06/09/simple-raspberry-pi-ufw-firewall-settings.html)
