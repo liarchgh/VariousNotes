@@ -10,6 +10,10 @@
 
 [基础配置文件](http://aria2c.com/usage.html)
 
+#### [AriaNg](https://github.com/mayswind/AriaNg)
+
+Aria2的Web前端，放在服务器、客户机都可以
+
 ### [catimg](https://github.com/posva/catimg)
 
 终端中低像素显示图片
