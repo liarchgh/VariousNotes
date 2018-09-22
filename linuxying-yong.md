@@ -2,50 +2,47 @@
 
 ## 开源
 
-### [aria2](https://aria2.github.io/)
+- [aria2](https://aria2.github.io/)
 
-多线程下载，可使用磁力链接、种子
+    多线程下载，可使用磁力链接、种子  
+    [教程](https://yorkchou.com/aria2.html)  
+    [基础配置文件](http://aria2c.com/usage.html)  
+    
+    [AriaNg](https://github.com/mayswind/AriaNg)  
+    Aria2的Web前端，放在服务器、客户机都可以
 
-[教程](https://yorkchou.com/aria2.html)
+- [catimg](https://github.com/posva/catimg)
 
-[基础配置文件](http://aria2c.com/usage.html)
+    终端中低像素显示图片
 
-#### [AriaNg](https://github.com/mayswind/AriaNg)
+- [cmatrix](https://github.com/abishekvashok/cmatrix)
 
-Aria2的Web前端，放在服务器、客户机都可以
+    终端下起数字雨，电脑空闲时作壁纸挺好看的
 
-### [catimg](https://github.com/posva/catimg)
+- [dos2unix](http://dos2unix.sourceforge.net/)
 
-终端中低像素显示图片
+    转换换行
 
-### [cmatrix](https://github.com/abishekvashok/cmatrix)
+- [Vim](https://github.com/vim/vimhttps://www.vim.org/)
 
-终端下起数字雨，电脑空闲时作壁纸挺好看的
+- [Git](https://git-scm.com/)
 
-### [dos2unix](http://dos2unix.sourceforge.net/)
+- [python](https://www.python.org/)
 
-转换换行
+    配套pip又有了一套环境
 
-### [Vim](https://github.com/vim/vimhttps://www.vim.org/)
+- [w3m](http://w3m.sourceforge.net/)
 
-### [Git](https://git-scm.com/)
+    终端网页浏览器
 
-### [python](https://www.python.org/)
+- [lynx](https://lynx.browser.org/)
 
-配套pip又有了一套环境
+    终端网页浏览器
 
-### [w3m](http://w3m.sourceforge.net/)
+- [Terminology](https://www.enlightenment.org/about-terminology.md)
 
-终端网页浏览器
+    各种终端工具,需要桌面
 
-### [lynx](https://lynx.browser.org/)
+- [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
 
-终端网页浏览器
-
-### [Terminology](https://www.enlightenment.org/about-terminology.md)
-
-各种终端工具,需要桌面
-
-### [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
-
-GitBook终端工具，可导出静态网页和PDF
+    GitBook终端工具，可导出静态网页和PDF
