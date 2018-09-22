@@ -13,3 +13,9 @@ All in [a store of jd](https://mall.jd.com/index-153636.html)
 ### [树莓派网络存储（NAS） OpenMediaVault 安装配置](http://shumeipai.nxez.com/2018/01/10/raspberry-pi-nas-openmediavault-installation.html)
 
 NAS
+
+## Software
+
+- [UFW防火墙](http://shumeipai.nxez.com/2014/06/09/simple-raspberry-pi-ufw-firewall-settings.html)
+
+    默认防火墙是开启的
