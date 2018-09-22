@@ -19,6 +19,9 @@ NAS
 本来一开始要使用VcXsrv连接的，然而搞了半天没弄好
 
 ### [安装火狐浏览器](https://my.oschina.net/menghaoqi/blog/760817)
+```
+    sudo apt-get install iceweasel
+```
 
 ### [当前状态和数据（温度、CPU、内存、硬盘）](http://shumeipai.nxez.com/2014/10/04/get-raspberry-the-current-status-and-data.html)
 
