@@ -14,4 +14,5 @@
 * [Windows应用](windowsying-yong.md)
 * [Vimrc](vimrc.md)
 * [RaspberryPi](raspberrypi.md)
+* [Linux配置](linuxpei-zhi.md)
 
