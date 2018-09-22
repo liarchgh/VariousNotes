@@ -18,4 +18,4 @@ NAS
 
 - [UFW防火墙](http://shumeipai.nxez.com/2014/06/09/simple-raspberry-pi-ufw-firewall-settings.html)
 
-    默认防火墙是开启的
+    默认防火墙是开启的，一些涉及到网络的软件无法正常使用
