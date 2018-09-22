@@ -78,5 +78,4 @@ export PROMPT_COMMAND=_prompt_command
 
 # alias
 alias piinfo="python3 /home/pi/Tools/Get_Information.py"
-
 ```
