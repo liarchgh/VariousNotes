@@ -8,3 +8,8 @@
 
 All in [a store of jd](https://mall.jd.com/index-153636.html)
 
+## Play
+
+### [树莓派网络存储（NAS） OpenMediaVault 安装配置](http://shumeipai.nxez.com/2018/01/10/raspberry-pi-nas-openmediavault-installation.html)
+
+NAS
