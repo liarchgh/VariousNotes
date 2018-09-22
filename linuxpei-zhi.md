@@ -75,7 +75,9 @@ export PROMPT_COMMAND=_prompt_command
 ############################################################################### 
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+```
 
-# alias
+## alias
+```
 alias piinfo="python3 /home/pi/Tools/Get_Information.py"
 ```
