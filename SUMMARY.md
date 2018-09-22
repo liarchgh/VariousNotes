@@ -13,4 +13,5 @@
 * [python应用](pythonying-yong.md)
 * [Windows应用](windowsying-yong.md)
 * [Vimrc](vimrc.md)
+* [RaspberryPi](raspberrypi.md)
 
