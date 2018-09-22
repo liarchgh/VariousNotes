@@ -105,6 +105,8 @@ if __name__ == '__main__':
 
 - [UFW防火墙](http://shumeipai.nxez.com/2014/06/09/simple-raspberry-pi-ufw-firewall-settings.html)
 
+    [设置](https://linux.cn/article-8087-1.html)
+
     默认防火墙是开启的，一些涉及到网络的软件无法正常使用
     
 ## bashrc
