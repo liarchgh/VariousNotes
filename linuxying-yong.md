@@ -6,6 +6,10 @@
 
 多线程下载，可使用磁力链接、种子
 
+[教程](https://yorkchou.com/aria2.html)
+
+[基础配置文件](http://aria2c.com/usage.html)
+
 ### [catimg](https://github.com/posva/catimg)
 
 终端中低像素显示图片
