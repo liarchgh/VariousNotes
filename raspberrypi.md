@@ -20,6 +20,8 @@ NAS
 
 ### [安装火狐浏览器](https://my.oschina.net/menghaoqi/blog/760817)
 
+### [当前状态和数据（温度、CPU、内存、硬盘）](http://shumeipai.nxez.com/2014/10/04/get-raspberry-the-current-status-and-data.html)
+
 ### Samba文件共享
 
 [树莓派安装Samba](https://ails.top/archives/d7e3de59.html#%E6%89%93%E9%80%A0SAMBA%E5%85%B1%E4%BA%AB)
