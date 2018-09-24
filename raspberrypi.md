@@ -115,3 +115,7 @@ if __name__ == '__main__':
 ```
 alias piinfo="python3 /home/pi/Tools/Get_Information.py"
 ```
+
+## backup
+
+- [制作指定大小Img镜像](http://www.cnblogs.com/haochuang/p/6066532.html)
