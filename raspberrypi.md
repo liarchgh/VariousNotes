@@ -101,6 +101,8 @@ if __name__ == '__main__':
 [树莓派安装Samba](https://ails.top/archives/d7e3de59.html#%E6%89%93%E9%80%A0SAMBA%E5%85%B1%E4%BA%AB)
 [Windows访问Samba服务器](https://blog.csdn.net/linglongwunv/article/details/5212919)
 
+### [终端连接wifi](https://blog.csdn.net/huayucong/article/details/51376279)
+
 ## Software
 
 - [UFW防火墙](http://shumeipai.nxez.com/2014/06/09/simple-raspberry-pi-ufw-firewall-settings.html)
