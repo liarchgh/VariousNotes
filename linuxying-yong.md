@@ -5,6 +5,7 @@
     多线程下载，可使用磁力链接、种子  
     [教程](https://yorkchou.com/aria2.html)  
     [基础配置文件](http://aria2c.com/usage.html)  
+    [BT没速度](http://www.senra.me/solutions-to-aria2-bt-metalink-download-slowly/)
     
     [AriaNg](https://github.com/mayswind/AriaNg)  
     Aria2的Web前端，放在[服务器](https://www.jianshu.com/p/5e42c1031fb5)、客户机都可以
