@@ -87,4 +87,12 @@
     ```
     
 - [docker](https://www.docker.com/)
+
     [linux安装](https://docs.docker.com/install/)
+    
+- [Nginx](https://www.nginx.com/)
+
+    Debian/Ubuntu安装:
+    ```
+    sudo apt install nginx
+    ```
