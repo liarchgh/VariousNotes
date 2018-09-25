@@ -9,7 +9,7 @@
 alias updateall="sudo apt update && sudo apt full-upgrade"
 
 # ls
-alias ll="ls -l"
+alias ll="ls -lF"
 alias la="ls -a"
-alias lal="ls -al"
+alias lal="ls -alF"
 ```
