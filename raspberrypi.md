@@ -113,7 +113,7 @@ if __name__ == '__main__':
 
 ### alias
 ```
-alias piinfo="python3 /home/pi/Tools/Get_Information.py"
+alias piinfo="python3 /home/pi/Tools/GetPiInformation.py"
 ```
 
 ## backup
