@@ -91,6 +91,10 @@ Unity3D项目、多版本管理器，内部可下载各版本
 
 [下载](https://github.com/obsproject/obs-studio/releases)
 
+### [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/)
+
+[x86下载](https://nchc.dl.sourceforge.net/project/win32diskimager/Archive/win32diskimager-1.0.0-install.exe)
+
 ## 应用商店
 
 ### [OneQuick](https://onequick.org)
