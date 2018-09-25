@@ -76,7 +76,7 @@
     sudo apt install p7zip-full
     ```
 
-- [npm]()
+- [npm](https://nodejs.org/en/)
 
     [linux安装](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
     
