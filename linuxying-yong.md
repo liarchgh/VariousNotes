@@ -96,3 +96,7 @@
     ```
     sudo apt install nginx
     ```
+    
+- [screen](https://www.gnu.org/software/screen/)
+    
+    [简单使用](https://blog.csdn.net/hejunqing14/article/details/50338161)
