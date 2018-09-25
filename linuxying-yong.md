@@ -61,7 +61,14 @@
     
 - [ag](https://github.com/ggreer/the_silver_searcher)
 
-    安装：
+    Debian/Ubuntu安装：
     ```
     sudo apt-get install silversearcher-ag
     ```
+
+- [7zip](https://www.7-zip.org/)
+    Debian/Ubuntu安装：
+    ```
+    sudo apt install p7zip-full
+    ```
+
