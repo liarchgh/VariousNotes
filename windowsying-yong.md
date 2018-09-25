@@ -95,6 +95,10 @@ Unity3D项目、多版本管理器，内部可下载各版本
 
 [x86下载](https://nchc.dl.sourceforge.net/project/win32diskimager/Archive/win32diskimager-1.0.0-install.exe)
 
+### [微PE](http://www.wepe.com.cn/)
+
+[x64下载](https://pan.baidu.com/s/1mi8vV6o)
+
 ## 应用商店
 
 ### [OneQuick](https://onequick.org)
