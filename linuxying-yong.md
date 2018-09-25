@@ -52,6 +52,11 @@
     USB自动识别
 
     [解决不能自动识别问题](https://blog.csdn.net/weihan1314/article/details/8806630)
+    
+    Debian/Ubuntu安装:
+    ```
+    sudo apt-get install ntfs-config
+    ```
 
 - ntfs-config
 
