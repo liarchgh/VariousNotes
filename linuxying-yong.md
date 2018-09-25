@@ -58,3 +58,10 @@
     linux写ntfs格式设备所需
 
     [简单使用](https://www.cnblogs.com/pengdonglin137/p/3477869.html)
+    
+- [ag](https://github.com/ggreer/the_silver_searcher)
+
+    安装：
+    ```
+    sudo apt-get install silversearcher-ag
+    ```
