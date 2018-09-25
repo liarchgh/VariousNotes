@@ -1,7 +1,5 @@
 # Linux应用
 
-## 开源
-
 - [aria2](https://aria2.github.io/)
 
     多线程下载，可使用磁力链接、种子  
@@ -66,14 +64,24 @@
     
 - [ag](https://github.com/ggreer/the_silver_searcher)
 
-    Debian/Ubuntu安装：
+    Debian/Ubuntu安装：  
     ```
     sudo apt-get install silversearcher-ag
     ```
 
 - [7zip](https://www.7-zip.org/)
+
     Debian/Ubuntu安装：
     ```
     sudo apt install p7zip-full
     ```
 
+- [npm]()
+
+    [linux安装](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
+    
+    Debian/Ubuntu安装Node.js 10：
+    ```
+    curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+    sudo apt-get install -y nodejs
+    ```
