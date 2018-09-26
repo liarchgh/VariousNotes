@@ -103,7 +103,11 @@
     [简单使用](https://blog.csdn.net/hejunqing14/article/details/50338161)
 
 - ssh
+
     [WSL中密钥权限问题](https://superuser.com/questions/1321072/ubuntu-on-windows-10-ssh-permissions-xxxx-for-private-key-are-too-open):
     ```
     sudo ssh -i keyfile <user>@ip
     ```
+    
+    [端口转发](http://blog.creke.net/722.html)
+    [解决本地只代理了localhost的问题](https://www.cnblogs.com/sparkdev/p/7497388.html)
