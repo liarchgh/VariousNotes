@@ -103,6 +103,8 @@ if __name__ == '__main__':
 
 ### [终端连接wifi](https://blog.csdn.net/huayucong/article/details/51376279)
 
+### [解锁root账户并允许ssh登录](http://www.shumeipaiba.com/wanpai/jiaocheng/2.html)
+
 ## Software
 
 - [UFW防火墙](http://shumeipai.nxez.com/2014/06/09/simple-raspberry-pi-ufw-firewall-settings.html)
