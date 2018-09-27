@@ -47,7 +47,7 @@
     GitBook终端工具，可导出静态网页和PDF
 
 
-- ntfs-config
+- ntfs-config && ntfs-3g
 
     linux写ntfs格式设备所需
 
@@ -55,7 +55,7 @@
     
     Debian/Ubuntu安装:
     ```
-    sudo apt-get install ntfs-config
+    sudo apt-get install ntfs-config ntfs-3g
     ```
     
 - [ag](https://github.com/ggreer/the_silver_searcher)
