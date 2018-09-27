@@ -46,22 +46,17 @@
 
     GitBook终端工具，可导出静态网页和PDF
 
-- [usbmount](https://github.com/rbrito/usbmount)
-
-    USB自动识别
-
-    [解决不能自动识别问题](https://blog.csdn.net/weihan1314/article/details/8806630)
-    
-    Debian/Ubuntu安装:
-    ```
-    sudo apt-get install ntfs-config
-    ```
 
 - ntfs-config
 
     linux写ntfs格式设备所需
 
     [简单使用](https://www.cnblogs.com/pengdonglin137/p/3477869.html)
+    
+    Debian/Ubuntu安装:
+    ```
+    sudo apt-get install ntfs-config
+    ```
     
 - [ag](https://github.com/ggreer/the_silver_searcher)
 
