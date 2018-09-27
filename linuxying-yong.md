@@ -106,3 +106,7 @@
     
     [端口转发](http://blog.creke.net/722.html)
     [解决本地只代理了localhost的问题](https://www.cnblogs.com/sparkdev/p/7497388.html)
+    
+- [MLDonkey](http://mldonkey.sourceforge.net/Main_Page)
+    
+    下载器，支持ed2k、BT等
