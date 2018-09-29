@@ -11,6 +11,7 @@ browser.tabs.drawInTitlebar:true
 ## userChrome.css
 
 ```
+/* 去除顶部标签栏 */
 #main-window[tabsintitlebar="true"]:not([extradragspace="true"]) #TabsToolbar {
   opacity: 0;
   pointer-events: none;
