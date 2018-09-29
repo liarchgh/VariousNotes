@@ -9,6 +9,8 @@
 browser.tabs.drawInTitlebar;true
 // 双击标签关闭
 browser.tabs.closeTabByDblclick;true
+// 关闭最后一个标签页不关闭firefox
+browser.tabs.closeWindowWithLastTab;false
 ```
 
 ## [userChrome.css](https://www.userchrome.org/)
