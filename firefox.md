@@ -5,7 +5,10 @@
 ## [about:config](about:config)
 
 ```
-browser.tabs.drawInTitlebar:true
+// 顶部显示激活标签的标题
+browser.tabs.drawInTitlebar;true
+// 双击标签关闭
+browser.tabs.closeTabByDblclick;true
 ```
 
 ## userChrome.css
