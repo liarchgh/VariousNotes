@@ -11,7 +11,7 @@ browser.tabs.drawInTitlebar;true
 browser.tabs.closeTabByDblclick;true
 ```
 
-## userChrome.css
+## [userChrome.css](https://www.userchrome.org/)
 
 ```
 /* 去除顶部标签栏 */
