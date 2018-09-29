@@ -15,4 +15,5 @@
 * [Vimrc](vimrc.md)
 * [RaspberryPi](raspberrypi.md)
 * [Linux配置](linuxpei-zhi.md)
+* [Firefox](firefox.md)
 
