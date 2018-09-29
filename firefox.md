@@ -7,3 +7,15 @@
 ```
 browser.tabs.drawInTitlebar:true
 ```
+
+## userChrome.css
+
+```
+#main-window[tabsintitlebar="true"]:not([extradragspace="true"]) #TabsToolbar {
+  opacity: 0;
+  pointer-events: none;
+}
+#main-window:not([tabsintitlebar="true"]) #TabsToolbar {
+    visibility: collapse !important;
+}
+```
