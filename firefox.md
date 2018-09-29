@@ -16,7 +16,7 @@ browser.tabs.closeWindowWithLastTab;false
 ## [userChrome.css](https://www.userchrome.org/)
 
 [一个简易的修改插件](https://addons.mozilla.org/en-US/firefox/addon/fxui-editor/)
-
+[一些现成的](https://github.com/andreicristianpetcu/UserChrome-Tweaks)
 ```
 /* 去除顶部标签栏 */
 #main-window[tabsintitlebar="true"]:not([extradragspace="true"]) #TabsToolbar {
