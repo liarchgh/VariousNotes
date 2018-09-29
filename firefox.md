@@ -13,6 +13,8 @@ browser.tabs.closeTabByDblclick;true
 
 ## [userChrome.css](https://www.userchrome.org/)
 
+[一个简易的修改插件](https://addons.mozilla.org/en-US/firefox/addon/fxui-editor/)
+
 ```
 /* 去除顶部标签栏 */
 #main-window[tabsintitlebar="true"]:not([extradragspace="true"]) #TabsToolbar {
