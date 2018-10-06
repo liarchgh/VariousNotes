@@ -118,3 +118,17 @@ Unity3D项目、多版本管理器，内部可下载各版本
 To Do List 应用
 
 [Win10应用商店安装](https://www.microsoft.com/en-us/p/microsoft-to-do/9nblggh5r558?rtc=1#activetab=pivot:overviewtab)
+
+## Config
+
+### 交换Ctrl和Caps键
+
+#### [修改注册表](https://www.jianshu.com/p/4a062318f334)
+
+保存一下代码为reg后缀文件，双击运行
+
+```
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
+"Scancode Map"=hex:00,00,00,00,00,00,00,00,03,00,00,00,3a,00,1d,00,1d,00,3a,00,00,00,00,00
+```
