@@ -1,4 +1,4 @@
-# Windows应用
+# Windows配置
 
 ## Win32应用
 

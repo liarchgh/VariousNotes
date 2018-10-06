@@ -11,7 +11,7 @@
 * [Git](git.md)
 * [Linux应用](linuxying-yong.md)
 * [python应用](pythonying-yong.md)
-* [Windows应用](windowsying-yong.md)
+* [Windows配置](windowsying-yong.md)
 * [Vimrc](vimrc.md)
 * [RaspberryPi](raspberrypi.md)
 * [Linux配置](linuxpei-zhi.md)
