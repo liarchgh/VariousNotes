@@ -6,7 +6,7 @@
 
 ```
 // 顶部显示激活标签的标题
-browser.tabs.drawInTitlebar;true
+browser.tabs.drawInTitlebar;false
 // 双击标签关闭
 browser.tabs.closeTabByDblclick;true
 // 关闭最后一个标签页不关闭firefox
