@@ -99,6 +99,14 @@ Unity3D项目、多版本管理器，内部可下载各版本
 
 [x64下载](https://pan.baidu.com/s/1mi8vV6o)
 
+### [Office Tool Plus](https://otp.landian.la/zh-cn/)
+
+Office套件管理
+
+功能:  
+- 通过安装证书激活office  
+- 下载、在线安装各个版本office中的各个组件
+
 ## 应用商店
 
 ### [OneQuick](https://onequick.org)
