@@ -116,6 +116,10 @@ Windows系统、Office套件一键激活
 
 [获取学生授权](https://sales.jetbrains.com/hc/zh-cn/articles/207154369-%E5%AD%A6%E7%94%9F%E6%8E%88%E6%9D%83%E7%94%B3%E8%AF%B7%E6%96%B9%E5%BC%8F)
 
+### [Diskgenius](http://www.diskgenius.cn/)
+
+硬盘管理、分区、对齐、数据恢复等功能
+
 ## 应用商店
 
 ### [OneQuick](https://onequick.org)
