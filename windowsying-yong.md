@@ -120,6 +120,12 @@ Windows系统、Office套件一键激活
 
 硬盘管理、分区、对齐、数据恢复等功能
 
+### [Digitallicense](https://gitlab.com/angelkyo/w10-digitallicense)
+
+Win10数字权利简易激活软件，支持家庭版、专业版、企业版，数字权利激活，重装系统依然有效
+
+[各版本下载页面](https://gitlab.com/angelkyo/w10-digitallicense/tags)
+
 ## 应用商店
 
 ### [OneQuick](https://onequick.org)
