@@ -109,7 +109,7 @@ Office套件管理
 
 ### [KMSpico](https://www.officialkmspico.com/)
 
-Windows系统、Office组件一键激活
+Windows系统、Office套件一键激活
 
 [下载](http://185.125.230.210/KMSpico-setup.exe)
 
