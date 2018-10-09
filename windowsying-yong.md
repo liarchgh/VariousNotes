@@ -104,7 +104,6 @@ Unity3D项目、多版本管理器，内部可下载各版本
 Office套件管理
 
 功能:  
-- 通过安装证书激活office  
 - 下载、在线安装各个版本office中的各个组件
 
 ### [KMSpico](https://www.officialkmspico.com/)
