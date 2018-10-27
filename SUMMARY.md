@@ -1,27 +1,29 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Anonymous
 
-* [Description](README.md)
-* [Image Hosting Web Site](image_hosting_web_site.md)
-* [游戏存档位置](you-xi-cun-dang-wei-zhi.md)
-* [GitBook](gitbook.md)
-* [字符画](zi-fu-hua.md)
-* [UsefulSoftware](software.md)
-* [Python3](python3.md)
-* [Git](git.md)
-* [Linux应用](linuxying-yong.md)
-* [python应用](pythonying-yong.md)
-* [Windows](windowsying-yong.md)
-* [Vimrc](vimrc.md)
-* [RaspberryPi](raspberrypi.md)
-* [Linux配置](linuxpei-zhi.md)
-* [Firefox](firefox.md)
-* [Docker](docker.md)
+* [Description](anonymous/readme.md)
+* [Image Hosting Web Site](anonymous/image_hosting_web_site.md)
+* [游戏存档位置](anonymous/you-xi-cun-dang-wei-zhi.md)
+* [GitBook](anonymous/gitbook.md)
+* [字符画](anonymous/zi-fu-hua.md)
+* [UsefulSoftware](anonymous/software.md)
+* [Python3](anonymous/python3.md)
+* [Git](anonymous/git.md)
+* [Linux应用](anonymous/linuxying-yong.md)
+* [python应用](anonymous/pythonying-yong.md)
+* [Windows](anonymous/windowsying-yong.md)
+* [Vimrc](anonymous/vimrc.md)
+* [RaspberryPi](anonymous/raspberrypi.md)
+* [Linux配置](anonymous/linuxpei-zhi.md)
+* [Firefox](anonymous/firefox.md)
+* [Docker](anonymous/docker.md)
 
 ## Android
 
 * [Pixel解锁Bootloader](android/pixel-jie-suo-bootloader.md)
 * [Pixel破解电信](android/pixel-po-jie-dian-xin.md)
-* [Pixel破解电信后系统升级](pixelpo-jie-dian-xin-hou-xi-tong-sheng-ji.md)
+* [Pixel破解电信后系统升级](android/pixelpo-jie-dian-xin-hou-xi-tong-sheng-ji.md)
 
