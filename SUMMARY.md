@@ -23,4 +23,5 @@
 
 * [Pixel解锁Bootloader](android/pixel-jie-suo-bootloader.md)
 * [Pixel破解电信](android/pixel-po-jie-dian-xin.md)
+* [Pixel破解电信后系统升级](pixelpo-jie-dian-xin-hou-xi-tong-sheng-ji.md)
 
