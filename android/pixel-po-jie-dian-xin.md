@@ -67,6 +67,7 @@ Flash-nomodem-nowipe.zip：http://bbs.gfan.com/android-9165559-1-1.html
 - 下载 Flash-nomodem-nowipe.zip 并解压在原厂镜像文件夹中（sailfish-opm1.171019.016）
 - 解压最新版 platform-tools 到原厂镜像文件夹中
 - 修改 flash-nomodem-nowipe.bat 如下并运行
+
 ```
 @ECHO OFF
 :: Copyright 2012 The Android Open Source Project
@@ -104,6 +105,7 @@ echo Press any key to exit...
 pause >nul
 exit
 ```
+
 - 之后系统会启动失败，根据提示来一发 factory data reset 就可以了
 
 ## ex. 恢复 modemst
