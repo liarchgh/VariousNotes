@@ -6,10 +6,11 @@ description: descrip the project
 
 Various small things I'd like to record.
 
-```
+```text
  ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
 █░░░█░░░░░░░░░░▄▄░██░█
 █░▀▀█▀▀░▄▀░▄▀░░▀▀░▄▄░█
 █░░░▀░░░▄▄▄▄▄░░██░▀▀░█
  ▀▄▄▄▄▄▀     ▀▄▄▄▄▄▄▀
 ```
+

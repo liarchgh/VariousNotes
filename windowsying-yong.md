@@ -1,18 +1,20 @@
-# Windows配置
+# Windows
 
 ## Win32应用
 
-### [PDM(Persepolis Download Manager)](https://persepolisdm.github.io/)
+### [PDM\(Persepolis Download Manager\)](https://persepolisdm.github.io/)
 
 加了GUI的aria2，一些迅雷下不动的资源用这个有奇效，其余时间也不错，只是没有迅雷那种加速服务器，如果服务器网络状态不好就尴尬了。
 
 ### [Listary](https://www.listary.com/)
 
-### [IDM(Internet Download Manager)](http://www.internetdownloadmanager.com/)
+### [IDM\(Internet Download Manager\)](http://www.internetdownloadmanager.com/)
 
 强大的下载器，自带扒取网页上的视频的功能，不能使用磁力链接和种子是硬伤
 
-    [IDM群分享](http://idman.ys168.com/)
+```text
+[IDM群分享](http://idman.ys168.com/)
+```
 
 ### [EagleGet](http://www.eagleget.com/)
 
@@ -32,7 +34,7 @@ windows上自带的的linux内核
 
 ### [wsl-terminal](https://goreliu.github.io/wsl-terminal/README.zh_CN.html)
 
-用于 Windows Subsystem for Linux (WSL) 的终端模拟器，漂亮，好用
+用于 Windows Subsystem for Linux \(WSL\) 的终端模拟器，漂亮，好用
 
 [Download](https://github.com/goreliu/wsl-terminal/releases)
 
@@ -44,8 +46,7 @@ windows上自带的的linux内核
 
 ### [spacedesk](https://www.spacedesk.net/)
 
-移动设备作为电脑扩展屏幕
-[Win10x64下载](https://www.spacedesk.net/downloadidd64)
+移动设备作为电脑扩展屏幕 [Win10x64下载](https://www.spacedesk.net/downloadidd64)
 
 ### [Pan Download](https://pandownload.com/)
 
@@ -75,9 +76,7 @@ Unity3D项目、多版本管理器，内部可下载各版本
 
 压缩软件，多格式，自带文本编码转化
 
-[x86 Installer](https://www.bandisoft.com/bandizip/dl.php?web)
-[x64 Portable](https://www.bandisoft.com/bandizip/dl.php?portable64)
-[x86 Portable](https://www.bandisoft.com/bandizip/dl.php?portable)
+[x86 Installer](https://www.bandisoft.com/bandizip/dl.php?web) [x64 Portable](https://www.bandisoft.com/bandizip/dl.php?portable64) [x86 Portable](https://www.bandisoft.com/bandizip/dl.php?portable)
 
 ### [PotPlayer](https://potplayer.daum.net/)
 
@@ -103,8 +102,9 @@ Unity3D项目、多版本管理器，内部可下载各版本
 
 Office套件管理
 
-功能:  
-- 下载、在线安装各个版本office中的各个组件
+功能:
+
+* 下载、在线安装各个版本office中的各个组件
 
 ### [KMSpico](https://www.officialkmspico.com/)
 
@@ -114,7 +114,7 @@ Windows系统、Office套件一键激活
 
 ### JetBrains
 
-[获取学生授权](https://sales.jetbrains.com/hc/zh-cn/articles/207154369-%E5%AD%A6%E7%94%9F%E6%8E%88%E6%9D%83%E7%94%B3%E8%AF%B7%E6%96%B9%E5%BC%8F)
+[获取学生授权](https://sales.jetbrains.com/hc/zh-cn/articles/207154369-学生授权申请方式)
 
 ### [Diskgenius](http://www.diskgenius.cn/)
 
@@ -154,7 +154,7 @@ To Do List 应用
 
 保存一下代码为reg后缀文件，双击运行
 
-```
+```text
 Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
 "Scancode Map"=hex:00,00,00,00,00,00,00,00,03,00,00,00,3a,00,1d,00,1d,00,3a,00,00,00,00,00
@@ -167,3 +167,4 @@ Windows Registry Editor Version 5.00
 安装雷游时某些中文字符乱码，结果安装完成后启动提示我失败，需要重启安装，重复几次、换版本也没有成功，最后按照乱码的思路取消了Win10的utf-8码显示，就好了。  
 ![](https://i.imgur.com/jO8TGef.png)  
 ![](https://i.imgur.com/cJecQi2.png)
+

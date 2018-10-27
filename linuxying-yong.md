@@ -1,112 +1,115 @@
 # Linux应用
 
-- [aria2](https://aria2.github.io/)
+* [aria2](https://aria2.github.io/)
 
-    多线程下载，可使用磁力链接、种子  
-    [教程](https://yorkchou.com/aria2.html)  
-    [基础配置文件](http://aria2c.com/usage.html)  
-    [BT没速度](http://www.senra.me/solutions-to-aria2-bt-metalink-download-slowly/)
-    
-    [AriaNg](https://github.com/mayswind/AriaNg)  
-    Aria2的Web前端，放在[服务器](https://www.jianshu.com/p/5e42c1031fb5)、客户机都可以
+  多线程下载，可使用磁力链接、种子  
+  [教程](https://yorkchou.com/aria2.html)  
+  [基础配置文件](http://aria2c.com/usage.html)  
+  [BT没速度](http://www.senra.me/solutions-to-aria2-bt-metalink-download-slowly/)
 
-- [catimg](https://github.com/posva/catimg)
+  [AriaNg](https://github.com/mayswind/AriaNg)  
+  Aria2的Web前端，放在[服务器](https://www.jianshu.com/p/5e42c1031fb5)、客户机都可以
 
-    终端中低像素显示图片
+* [catimg](https://github.com/posva/catimg)
 
-- [cmatrix](https://github.com/abishekvashok/cmatrix)
+  终端中低像素显示图片
 
-    终端下起数字雨，电脑空闲时作壁纸挺好看的
+* [cmatrix](https://github.com/abishekvashok/cmatrix)
 
-- [dos2unix](http://dos2unix.sourceforge.net/)
+  终端下起数字雨，电脑空闲时作壁纸挺好看的
 
-    转换换行
+* [dos2unix](http://dos2unix.sourceforge.net/)
 
-- [Vim](https://github.com/vim/vimhttps://www.vim.org/)
+  转换换行
 
-- [Git](https://git-scm.com/)
+* [Vim](https://github.com/vim/vimhttps://www.vim.org/)
+* [Git](https://git-scm.com/)
+* [python](https://www.python.org/)
 
-- [python](https://www.python.org/)
+  配套pip又有了一套环境
 
-    配套pip又有了一套环境
+* [w3m](http://w3m.sourceforge.net/)
 
-- [w3m](http://w3m.sourceforge.net/)
+  终端网页浏览器
 
-    终端网页浏览器
+* [lynx](https://lynx.browser.org/)
 
-- [lynx](https://lynx.browser.org/)
+  终端网页浏览器
 
-    终端网页浏览器
+* [Terminology](https://www.enlightenment.org/about-terminology.md)
 
-- [Terminology](https://www.enlightenment.org/about-terminology.md)
+  各种终端工具,需要桌面
 
-    各种终端工具,需要桌面
+* [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
 
-- [gitbook-cli](https://github.com/GitbookIO/gitbook-cli)
+  GitBook终端工具，可导出静态网页和PDF
 
-    GitBook终端工具，可导出静态网页和PDF
+* ntfs-config && ntfs-3g
 
+  linux写ntfs格式设备所需
 
-- ntfs-config && ntfs-3g
+  [简单使用](https://www.cnblogs.com/pengdonglin137/p/3477869.html)
 
-    linux写ntfs格式设备所需
+  Debian/Ubuntu安装:
 
-    [简单使用](https://www.cnblogs.com/pengdonglin137/p/3477869.html)
-    
-    Debian/Ubuntu安装:
-    ```
+  ```text
     sudo apt-get install ntfs-config ntfs-3g
-    ```
-    
-- [ag](https://github.com/ggreer/the_silver_searcher)
+  ```
 
-    Debian/Ubuntu安装：  
-    ```
+* [ag](https://github.com/ggreer/the_silver_searcher)
+
+  Debian/Ubuntu安装：
+
+  ```text
     sudo apt-get install silversearcher-ag
-    ```
+  ```
 
-- [7zip](https://www.7-zip.org/)
+* [7zip](https://www.7-zip.org/)
 
-    Debian/Ubuntu安装：
-    ```
+  Debian/Ubuntu安装：
+
+  ```text
     sudo apt install p7zip-full
-    ```
+  ```
 
-- [npm](https://nodejs.org/en/)
+* [npm](https://nodejs.org/en/)
 
-    [linux安装](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
-    
-    Debian/Ubuntu安装Node.js 10：
-    ```
+  [linux安装](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
+
+  Debian/Ubuntu安装Node.js 10：
+
+  ```text
     curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
     sudo apt-get install -y nodejs
-    ```
-    
-- [docker](https://www.docker.com/)
+  ```
 
-    [linux安装](https://docs.docker.com/install/)
-    
-- [Nginx](https://www.nginx.com/)
+* [docker](https://www.docker.com/)
 
-    Debian/Ubuntu安装:
-    ```
+  [linux安装](https://docs.docker.com/install/)
+
+* [Nginx](https://www.nginx.com/)
+
+  Debian/Ubuntu安装:
+
+  ```text
     sudo apt install nginx
-    ```
-    
-- [screen](https://www.gnu.org/software/screen/)
-    
-    [简单使用](https://blog.csdn.net/hejunqing14/article/details/50338161)
+  ```
 
-- ssh
+* [screen](https://www.gnu.org/software/screen/)
 
-    [WSL中密钥权限问题](https://superuser.com/questions/1321072/ubuntu-on-windows-10-ssh-permissions-xxxx-for-private-key-are-too-open):
-    ```
+  [简单使用](https://blog.csdn.net/hejunqing14/article/details/50338161)
+
+* ssh
+
+  [WSL中密钥权限问题](https://superuser.com/questions/1321072/ubuntu-on-windows-10-ssh-permissions-xxxx-for-private-key-are-too-open):
+
+  ```text
     sudo ssh -i keyfile <user>@ip
-    ```
-    
-    [端口转发](http://blog.creke.net/722.html)
-    [解决本地只代理了localhost的问题](https://www.cnblogs.com/sparkdev/p/7497388.html)
-    
-- [MLDonkey](http://mldonkey.sourceforge.net/Main_Page)
-    
-    下载器，支持ed2k、BT等
+  ```
+
+  [端口转发](http://blog.creke.net/722.html) [解决本地只代理了localhost的问题](https://www.cnblogs.com/sparkdev/p/7497388.html)
+
+* [MLDonkey](http://mldonkey.sourceforge.net/Main_Page)
+
+  下载器，支持ed2k、BT等
+

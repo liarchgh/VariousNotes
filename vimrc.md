@@ -1,4 +1,6 @@
-```
+# Vimrc
+
+```text
 " Specify a directory for plugins
 " - For Neovim: ~/.local/share/nvim/plugged
 " - Avoid using standard Vim directory names like 'plugin'
@@ -214,9 +216,9 @@ map <leader>w :w!<cr>
 map <leader>q :q!<cr>
 " file encoding
 set encoding=utf-8  
-  
+
 set fileencodings=utf-8,chinese,latin-1  
-  
+
 if has("win32")  
 
     set fileencoding=chinese  
@@ -529,17 +531,17 @@ set completeopt=menu,menuone
 noremap <c-z> <NOP>
 
 let g:ycm_semantic_triggers =  {
-			\ 'c,cpp,python,java,go,erlang,perl': ['re!\w{2}'],
-			\ 'cs,lua,javascript': ['re!\w{2}'],
-			\ }
+            \ 'c,cpp,python,java,go,erlang,perl': ['re!\w{2}'],
+            \ 'cs,lua,javascript': ['re!\w{2}'],
+            \ }
 let g:ycm_filetype_whitelist = { 
-			\ "c":1,
-			\ "cpp":1, 
-			\ "objc":1,
-			\ "sh":1,
-			\ "zsh":1,
-			\ "zimbu":1,
-			\ }
+            \ "c":1,
+            \ "cpp":1, 
+            \ "objc":1,
+            \ "sh":1,
+            \ "zsh":1,
+            \ "zimbu":1,
+            \ }
 
 " " 打开vim时不再询问是否加载ycm_extra_conf.py配置
 " let g:ycm_confirm_extra_conf=0
@@ -647,3 +649,4 @@ function! CmdLine(str)
     unmenu Foo
 endfunction
 ```
+
