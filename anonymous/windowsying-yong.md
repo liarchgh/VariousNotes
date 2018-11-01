@@ -2,10 +2,13 @@
 
 ## Win32应用
 
-## [Rider for Unity](https://www.jetbrains.com/zh/dotnet/promo/unity/)
+## [JetBrains](https://www.jetbrains.com/)
 
 [破解](https://www.jianshu.com/p/f404994e2843)
-[下载](https://www.jetbrains.com/zh/rider/download/download-thanks.html)
+
+- [Rider for Unity](https://www.jetbrains.com/zh/dotnet/promo/unity/)
+
+    [下载](https://www.jetbrains.com/zh/rider/download/download-thanks.html)
 
 ### [Sourcetree](https://www.sourcetreeapp.com/)
 
