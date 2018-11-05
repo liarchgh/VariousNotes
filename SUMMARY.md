@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
 
@@ -12,12 +12,10 @@
 * [UsefulSoftware](anonymous/software.md)
 * [Python3](anonymous/python3.md)
 * [Git](anonymous/git.md)
-* [Linux应用](anonymous/linuxying-yong.md)
 * [python应用](anonymous/pythonying-yong.md)
 * [Windows](anonymous/windowsying-yong.md)
 * [Vimrc](anonymous/vimrc.md)
 * [RaspberryPi](anonymous/raspberrypi.md)
-* [Linux配置](anonymous/linuxpei-zhi.md)
 * [Firefox](anonymous/firefox.md)
 * [Docker](anonymous/docker.md)
 
@@ -26,4 +24,9 @@
 * [Pixel解锁Bootloader](android/pixel-jie-suo-bootloader.md)
 * [Pixel破解电信](android/pixel-po-jie-dian-xin.md)
 * [Pixel破解电信后系统升级](android/pixelpo-jie-dian-xin-hou-xi-tong-sheng-ji.md)
+
+## Linux
+
+* [Linux应用](anonymous/linuxying-yong.md)
+* [Linux配置](anonymous/linuxpei-zhi.md)
 
