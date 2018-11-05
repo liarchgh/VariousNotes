@@ -26,8 +26,26 @@ NAS
 
 ### [当前状态和数据（温度、CPU、内存、硬盘）](http://shumeipai.nxez.com/2014/10/04/get-raspberry-the-current-status-and-data.html)
 
-```text
+```python3
 import os
+import time
+
+# global var
+global CPU_temp
+global CPU_usage
+                 
+# RAM information
+# Output is in kb
+global RAM_stats
+global RAM_total
+global RAM_used
+global RAM_free
+                 
+# Disk informatio
+global DISK_stats
+global DISK_total
+global DISK_used
+global DISK_perc
 
 # Return CPU temperature as a character string                                      
 def getCPUtemperature():
@@ -66,35 +84,78 @@ def getDiskSpace():
             return(line.split()[1:5])
 
 
-# CPU informatiom
-CPU_temp = getCPUtemperature()
-CPU_usage = getCPUuse()
+def getInfo():
+    # global var
+    global CPU_temp
+    global CPU_usage
+                     
+    # RAM information
+    # Output is in kb
+    global RAM_stats
+    global RAM_total
+    global RAM_used
+    global RAM_free
+                     
+    # Disk informatio
+    global DISK_stats
+    global DISK_total
+    global DISK_used
+    global DISK_perc
 
-# RAM information
-# Output is in kb, here I convert it in Mb for readability
-RAM_stats = getRAMinfo()
-RAM_total = round(int(RAM_stats[0]) / 1000,1)
-RAM_used = round(int(RAM_stats[1]) / 1000,1)
-RAM_free = round(int(RAM_stats[2]) / 1000,1)
+    # CPU informatiom
+    CPU_temp = getCPUtemperature()
+    CPU_usage = getCPUuse()
 
-# Disk information
-DISK_stats = getDiskSpace()
-DISK_total = DISK_stats[0]
-DISK_used = DISK_stats[1]
-DISK_perc = DISK_stats[3]
+    # RAM information
+    # Output is in kb, here I convert it in Mb for readability
+    RAM_stats = getRAMinfo()
+    RAM_total = round(int(RAM_stats[0]) / 1000,1)
+    RAM_used = round(int(RAM_stats[1]) / 1000,1)
+    RAM_free = round(int(RAM_stats[2]) / 1000,1)
+
+    # Disk information
+    DISK_stats = getDiskSpace()
+    DISK_total = DISK_stats[0]
+    DISK_used = DISK_stats[1]
+    DISK_perc = DISK_stats[3]
 
 if __name__ == '__main__':
-    print('')
-    print('CPU Temperature = '+CPU_temp)
-    print('CPU Use = '+CPU_usage)
-    print('')
-    print('RAM Total = '+str(RAM_total)+' MB')
-    print('RAM Used = '+str(RAM_used)+' MB')
-    print('RAM Free = '+str(RAM_free)+' MB')
-    print('')  
-    print('DISK Total Space = '+str(DISK_total)+'B')
-    print('DISK Used Space = '+str(DISK_used)+'B')
-    print('DISK Used Percentage = '+str(DISK_perc))
+    while True:
+        # global var
+        global CPU_temp
+        global CPU_usage
+                         
+        # RAM information
+        # Output is in kb
+        global RAM_stats
+        global RAM_total
+        global RAM_used
+        global RAM_free
+                         
+        # Disk informatio
+        global DISK_stats
+        global DISK_total
+        global DISK_used
+        global DISK_perc
+
+        getInfo()
+
+        print('================================')
+        print(time.asctime(time.localtime(time.time())))
+        print('--------------------------------')
+        print('CPU Temperature = '+CPU_temp)
+        print('CPU Use = '+CPU_usage)
+        print('--------------------------------')
+        print('RAM Total = '+str(RAM_total)+' MB')
+        print('RAM Used = '+str(RAM_used)+' MB')
+        print('RAM Free = '+str(RAM_free)+' MB')
+        print('--------------------------------')
+        print('DISK Total Space = '+str(DISK_total)+'B')
+        print('DISK Used Space = '+str(DISK_used)+'B')
+        print('DISK Used Percentage = '+str(DISK_perc))
+        print('================================')
+        time.sleep(1)
+
 ```
 
 ### Samba文件共享
