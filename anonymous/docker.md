@@ -10,6 +10,23 @@
 
   按照步骤来
   
+## Repositories
+
+### hello-world
+
+测试docker是否可以正常使用
+
+x86_64:  
+```shell
+sudo docker run hello-world
+```
+
+armhf:  
+```shell
+sudo docker run armhf/hello-world
+```
+
+  
 ## Docker Hub
 
 [Official Docker Hub](https://hub.docker.com)
