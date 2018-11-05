@@ -2,6 +2,12 @@
 
 ## Win32应用
 
+## [Ext2Fsd](https://www.ext2fsd.com/)
+
+Windows系统下浏览linux文件系统
+
+[下载](https://sourceforge.net/projects/ext2fsd/files/latest/download)
+
 ## [JetBrains](https://www.jetbrains.com/)
 
 [破解](https://www.jianshu.com/p/f404994e2843)
