@@ -143,7 +143,7 @@ alias lal="ls -alF"
 alias piinfo="python3 /home/pi/Tools/GetPiInformation.py"
 ```
 
-### 我的`/root/.bashrc`
+### [我的`/root/.bashrc`](root.bashrc)
 
 `monokai`风格`.bashrc`
 
