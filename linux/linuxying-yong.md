@@ -85,9 +85,7 @@
     sudo apt-get install -y nodejs
   ```
 
-* [docker](https://www.docker.com/)
-
-  [linux安装](https://docs.docker.com/install/)
+* [docker](../anonymous/docker)
 
 * [Nginx](https://www.nginx.com/)
 
