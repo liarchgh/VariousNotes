@@ -27,6 +27,6 @@
 
 ## Linux
 
-* [Linux应用](anonymous/linuxying-yong.md)
-* [Linux配置](anonymous/linuxpei-zhi.md)
+* [Linux应用](linux/linuxying-yong.md)
+* [Linux配置](linux/linuxpei-zhi.md)
 
