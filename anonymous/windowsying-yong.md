@@ -2,13 +2,18 @@
 
 ## Win32应用
 
-## [Ext2Fsd](https://www.ext2fsd.com/)
+### [Xpadder](https://www.xpadder.com/)
+
+[下载页面](https://www.xpadder.com/?lang=chineseSimple&country=CN)
+填邮箱地址，下载链接会发到邮箱里
+
+### [Ext2Fsd](https://www.ext2fsd.com/)
 
 Windows系统下浏览linux文件系统
 
 [下载](https://sourceforge.net/projects/ext2fsd/files/latest/download)
 
-## [JetBrains](https://www.jetbrains.com/)
+### [JetBrains](https://www.jetbrains.com/)
 
 [破解](https://www.jianshu.com/p/f404994e2843)
 
