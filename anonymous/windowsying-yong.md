@@ -2,6 +2,10 @@
 
 ## Win32应用
 
+### [Rclone](https://github.com/ncw/rclone)
+
+终端管理多网盘
+
 ### [Xpadder](https://www.xpadder.com/)
 
 手柄映射工具，比steam的功能要多一些
