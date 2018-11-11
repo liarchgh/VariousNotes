@@ -4,8 +4,7 @@
 
 ### [Xpadder](https://www.xpadder.com/)
 
-[下载页面](https://www.xpadder.com/?lang=chineseSimple&country=CN)
-填邮箱地址，下载链接会发到邮箱里
+手柄映射工具，比steam的功能要多一些
 
 ### [Ext2Fsd](https://www.ext2fsd.com/)
 
