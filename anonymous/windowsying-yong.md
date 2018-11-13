@@ -2,6 +2,12 @@
 
 ## Win32应用
 
+### [Listary](https://www.listary.com/)
+
+启动器、文件夹选择器、搜索工具
+
+[x64下载](https://www.listary.com/download/Listary.exe)
+
 ### [Snipaste](https://zh.snipaste.com/)
 
 截图软件
