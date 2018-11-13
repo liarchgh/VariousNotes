@@ -2,6 +2,13 @@
 
 ## Win32应用
 
+### [Snipaste](https://zh.snipaste.com/)
+
+截图软件
+
+[x64下载](https://dl.snipaste.com/win-x64-cn)
+[UWP下载](https://www.microsoft.com/store/apps/9p1wxpkb68kx?ocid=badge)
+
 ### [Rclone](https://github.com/ncw/rclone)
 
 终端管理多网盘
