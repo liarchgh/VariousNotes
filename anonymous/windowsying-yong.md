@@ -2,7 +2,11 @@
 
 ## Win32应用
 
-## [Everything](https://www.voidtools.com/support/everything/)
+### [Beyond Compare 4](https://www.scootersoftware.com/index.php)
+
+[下载页面](https://www.scootersoftware.com/download.php)
+
+### [Everything](https://www.voidtools.com/support/everything/)
 
 极速搜索、正则
 
