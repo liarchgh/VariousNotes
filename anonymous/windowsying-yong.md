@@ -4,6 +4,8 @@
 
 ### [Beyond Compare 4](https://www.scootersoftware.com/index.php)
 
+图片逐像素对比
+
 [下载页面](https://www.scootersoftware.com/download.php)
 
 ### [Everything](https://www.voidtools.com/support/everything/)
