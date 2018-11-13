@@ -2,6 +2,12 @@
 
 ## Win32应用
 
+## [Everything](https://www.voidtools.com/support/everything/)
+
+极速搜索、正则
+
+[下载页面](https://www.voidtools.com/downloads/)
+
 ### [Listary](https://www.listary.com/)
 
 启动器、文件夹选择器、搜索工具
