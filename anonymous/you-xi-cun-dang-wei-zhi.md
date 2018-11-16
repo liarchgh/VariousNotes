@@ -73,7 +73,7 @@ C:\Users\用户名\AppData\LocalLow\Dodge Roll\Enter the Gungeon
 ### [Nier:Automata](https://www.3dmgame.com/gl/3642305.html)
 
 ```
-...\Documents\My Games\NieR_Automata 目录下 
+...\Documents\My Games\NieR_Automata
 ```
 
 ![Example](https://i.imgur.com/lyaw1GH.png)
