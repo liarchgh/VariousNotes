@@ -76,6 +76,8 @@ C:\Users\用户名\AppData\LocalLow\Dodge Roll\Enter the Gungeon
 ...\Documents\My Games\NieR_Automata 目录下 
 ```
 
+![Example](https://i.imgur.com/lyaw1GH.png)
+
 include save ,setting, mods and so on
 
 ## Ref
