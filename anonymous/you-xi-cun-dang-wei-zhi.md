@@ -70,6 +70,12 @@ C:\Users\用户名\AppData\LocalLow\Dodge Roll\Enter the Gungeon
 ...\Documents\Paradox Interactive\Stellaris
 ```
 
+### [Nier:Automata](https://www.3dmgame.com/gl/3642305.html)
+
+```
+...\Documents\My Games\NieR_Automata 目录下 
+```
+
 include save ,setting, mods and so on
 
 ## Ref
