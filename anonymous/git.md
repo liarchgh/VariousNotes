@@ -21,3 +21,10 @@ last = log -1 HEAD
 # auto add all, commit with "update" and push all to origin
 acp = !git add . && git commit -m "update" && git push origin --all
 ```
+
+## config
+```
+[core]
+	autocrlf = false
+	compression = -1
+```
