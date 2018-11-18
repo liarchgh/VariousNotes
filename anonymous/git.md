@@ -25,6 +25,13 @@ acp = !git add . && git commit -m "update" && git push origin --all
 ## config
 ```
 [core]
-	autocrlf = false
-	compression = -1
+    autocrlf = false
+    compression = -1
+[user]
+    email = YourEmailAddress
+    name = YourName
+[credential]
+    helper = manager
+[http]
+    postBuffer = 524288000000
 ```
