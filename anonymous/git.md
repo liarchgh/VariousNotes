@@ -32,6 +32,4 @@ acp = !git add . && git commit -m "update" && git push origin --all
     name = YourName
 [credential]
     helper = manager
-[http]
-    postBuffer = 524288000000
 ```
