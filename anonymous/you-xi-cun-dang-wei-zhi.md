@@ -37,7 +37,7 @@ C:\Users\用户名\AppData\LocalLow\SUPERHOT_Team\SUPERHOT
 ### [Dead Cells \(steam\)](http://pc.tgbus.com/danji_207/87823/)
 
 ```text
-...\steam\userdata\348493882\588650\remote
+...\steam\userdata\(一串数字，对应用户)\588650\
 ```
 
 ### The Binding of Isaac Rebirth \(steam\)
