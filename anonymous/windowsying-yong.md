@@ -2,6 +2,10 @@
 
 ## Win32应用
 
+### [Adobe Flash Player 29.0.0.140](../Adobe Flash Player 29.0.0.140.7z)
+
+最后一个可用的非大陆特供版，没有弹窗广告和霸王协议
+
 ### [Beyond Compare 4](https://www.scootersoftware.com/index.php)
 
 图片逐像素对比
