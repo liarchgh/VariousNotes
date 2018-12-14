@@ -2,7 +2,7 @@
 
 ## Win32应用
 
-### [Adobe Flash Player 29\.0\.0\.140](../Adobe_Flash_Player_29.0.0.140.7z)
+### [Adobe Flash Player 29\.0\.0\.140](../Files/Adobe_Flash_Player_29.0.0.140.7z)
 
 最后一个可用的非大陆特供版，没有弹窗广告和霸王协议
 
@@ -97,7 +97,8 @@ windows上自带的的linux内核
 
 游戏时电脑自动加速，更重要的是存档管理，可以使用OneDrive和GoogleDrive
 
-[Installer](http://www.yuwecawlogilu.com/azjry9m/Installer_razer_cortex_7.5.7.57.exe)
+[Installer](http://www.yuwecawlogilu.com/azjry9m/Installer_razer_cortex_7.5.7.57.exe)  
+[Mirror](../Files/RazerCortexSetup_7.6.8.66.exe)
 
 ### [spacedesk](https://www.spacedesk.net/)
 
