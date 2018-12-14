@@ -4,6 +4,12 @@
 
 Win10下游戏的存档目录
 
+### [Sleeping Dogs: Definitive Edition](http://www.paopaoche.net/gonglue/16832.html)
+
+```text
+...\SleepingDogs\Data\HK*
+```
+
 ### [Just Cause 3 \(steam\)](http://www.gamersky.com/handbook/201512/689038.shtml)
 
 ```text
