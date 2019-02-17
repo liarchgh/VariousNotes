@@ -2,6 +2,18 @@
 
 ## Win32应用
 
+### [Chocolatey](https://chocolatey.org/)
+
+软件管理，国内软件缺失
+
+[安装步骤](https://chocolatey.org/install)
+
+### [Scoop](https://scoop.sh)
+
+命令行软件管理，貌似是虚拟出了一个环境
+
+[安装步骤](https://github.com/lukesampson/scoop#installation)
+
 ### [Adobe Flash Player 29\.0\.0\.140](../Files/Adobe_Flash_Player_29.0.0.140.7z)
 
 最后一个可用的非大陆特供版，没有弹窗广告和霸王协议
