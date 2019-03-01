@@ -1,5 +1,10 @@
 # Linux应用
 
+
+* [Syncloud](https://syncloud.org/)
+
+  私人服务器系统，可直接安装于树莓派上
+
 * [aria2](https://aria2.github.io/)
 
   多线程下载，可使用磁力链接、种子  
