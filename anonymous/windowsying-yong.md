@@ -2,6 +2,18 @@
 
 ## Win32应用
 
+### [ZeroTier](https://zerotier.com/)
+
+将多台不同网络环境的设备加入同一个局域网
+
+[下载页面](https://zerotier.com/download.shtml)
+
+### [HTML Help Workshop and Documentation](https://www.microsoft.com/en-us/download/details.aspx?id=21138)
+
+制作help帮助文档的工具
+
+[下载链接](https://www.microsoft.com/en-us/download/confirmation.aspx?id=21138)
+
 ### [Chocolatey](https://chocolatey.org/)
 
 软件管理，国内软件缺失
