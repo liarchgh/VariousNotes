@@ -2,6 +2,10 @@
 
 ## Win32应用
 
+### [Vector Magic](https://pan.baidu.com/s/1Vp1Dv8ReoxeX92PfoVDdJA#a1jo)
+
+图片转换为SVG格式
+
 ### [ZeroTier](https://zerotier.com/)
 
 将多台不同网络环境的设备加入同一个局域网
