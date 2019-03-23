@@ -29,4 +29,5 @@
 
 * [Linux应用](linux/linuxying-yong.md)
 * [Linux配置](linux/linuxpei-zhi.md)
+* [NAS搭建](linux/nas.md)
 
