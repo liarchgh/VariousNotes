@@ -12,8 +12,13 @@
 
 
 ## alias
-
+终端命令
 ```shell
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
+
+配置文件
+```gitconfig
 [alias]
     # brif commit history
     lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
@@ -24,7 +29,7 @@
 ```
 
 ## config
-```
+```gitconfig
 [core]
     autocrlf = false
     compression = -1
