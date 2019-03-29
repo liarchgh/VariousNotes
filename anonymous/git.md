@@ -39,3 +39,23 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 [credential]
     helper = manager
 ```
+
+## 技巧
+
+- 只Clone源码，不带提交历史
+    ```shell
+    git clone --depth=1 git@github.com:EpicGames/UnrealEngine.git
+    ```
+
+- [删除之前的提交，只保留最后X次](https://blog.czbix.com/remove-git-history.html)
+    ```shell
+    git cat-file commit master^X | sed -e '/^parent/ d' > tmpfile
+    git rebase --onto $(git hash-object -t commit -w tmpfile) master
+    rm -f tmpfile
+
+    # 其中X是要保留的记录条数
+    # 这个时候,你的log里已经没有历史的提交了,但是历史的数据还存在于本地,|
+    # 要想完全删除的话,执行以下代码
+    rm -rf .git/logs
+    git gc
+    ```
