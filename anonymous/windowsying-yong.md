@@ -2,6 +2,12 @@
 
 ## Win32应用
 
+### [uTools](https://u.tools/)
+
+类似Listart, Wox的工具，支持拼音、everythin插件
+
+[下载界面](https://u.tools/download.html)
+
 ### [Vector Magic](https://pan.baidu.com/s/1Vp1Dv8ReoxeX92PfoVDdJA#a1jo)
 
 图片转换为SVG格式
