@@ -2,6 +2,13 @@
 
 ## Win32应用
 
+### [暴雪 Battle.net® 應用程式](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
+
+全部服务器客户端，包括亚服、国服、美服等
+
+[下载页面](https://tw.battle.net/account/download/)  
+[下载链接](https://www.battle.net/download/getInstallerForGame?os=win&locale=zhTW&version=LIVE&gameProgram=BATTLENET_APP)
+
 ### [Intel® Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
 
 驱动更新
