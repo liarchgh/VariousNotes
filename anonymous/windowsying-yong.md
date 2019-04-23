@@ -2,6 +2,12 @@
 
 ## Win32应用
 
+### [Intel® Driver & Support Assistant](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
+
+驱动更新
+
+[点击下载](https://downloadmirror.intel.com/28425/a08/Intel%20Driver%20and%20Support%20Assistant%20Installer.exe)
+
 ### [uTools](https://u.tools/)
 
 类似Listart, Wox的工具，支持拼音、everythin插件
