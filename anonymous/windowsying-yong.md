@@ -2,7 +2,7 @@
 
 ## Win32应用
 
-### [暴雪 Battle.net® 應用程式](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
+### [暴雪 Battle.net® 應用程式](https://www.blizzard.com/zh-tw/)
 
 全部服务器客户端，包括亚服、国服、美服等
 
