@@ -49,7 +49,7 @@
 
 [安装步骤](https://github.com/lukesampson/scoop#installation)
 
-### [Adobe Flash Player 29\.0\.0\.140](../Files/Adobe_Flash_Player_29.0.0.140.7z)
+### [Adobe Flash Player 29.0.0.140](https://github.com/liarchgh/VariousNotes/tree/13bea8773e08adf38cc6494f19ed8c7f2f633782/Files/Adobe_Flash_Player_29.0.0.140.7z)
 
 最后一个可用的非大陆特供版，没有弹窗广告和霸王协议
 
@@ -75,8 +75,7 @@
 
 截图软件
 
-[x64下载](https://dl.snipaste.com/win-x64-cn)
-[UWP下载](https://www.microsoft.com/store/apps/9p1wxpkb68kx?ocid=badge)
+[x64下载](https://dl.snipaste.com/win-x64-cn) [UWP下载](https://www.microsoft.com/store/apps/9p1wxpkb68kx?ocid=badge)
 
 ### [Rclone](https://github.com/ncw/rclone)
 
@@ -96,9 +95,9 @@ Windows系统下浏览linux文件系统
 
 [破解](https://www.jianshu.com/p/f404994e2843)
 
-- [Rider for Unity](https://www.jetbrains.com/zh/dotnet/promo/unity/)
+* [Rider for Unity](https://www.jetbrains.com/zh/dotnet/promo/unity/)
 
-    [下载](https://www.jetbrains.com/zh/rider/download/download-thanks.html)
+  [下载](https://www.jetbrains.com/zh/rider/download/download-thanks.html)
 
 ### [Sourcetree](https://www.sourcetreeapp.com/)
 
@@ -145,7 +144,7 @@ windows上自带的的linux内核
 游戏时电脑自动加速，更重要的是存档管理，可以使用OneDrive和GoogleDrive
 
 [Installer](http://www.yuwecawlogilu.com/azjry9m/Installer_razer_cortex_7.5.7.57.exe)  
-[Mirror](../Files/RazerCortexSetup_7.6.8.66.exe)
+[Mirror](https://github.com/liarchgh/VariousNotes/tree/13bea8773e08adf38cc6494f19ed8c7f2f633782/Files/RazerCortexSetup_7.6.8.66.exe)
 
 ### [spacedesk](https://www.spacedesk.net/)
 

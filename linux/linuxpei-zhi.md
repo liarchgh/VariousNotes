@@ -14,11 +14,11 @@ alias la="ls -a"
 alias lal="ls -alF"
 ```
 
-### [我的`~/.bashrc`](pi.bashrc)
+### [我的`~/.bashrc`](https://github.com/liarchgh/VariousNotes/tree/13bea8773e08adf38cc6494f19ed8c7f2f633782/linux/pi.bashrc)
 
 `RaspberryPi`的`debian`系统默认的`.bashrc`
 
-### [我的`/root/.bashrc`](root.bashrc)
+### [我的`/root/.bashrc`](https://github.com/liarchgh/VariousNotes/tree/13bea8773e08adf38cc6494f19ed8c7f2f633782/linux/root.bashrc)
 
 `monokai`风格`.bashrc`
 

@@ -80,7 +80,7 @@ include save ,setting, mods and so on
 
 ### [Nier:Automata](https://www.3dmgame.com/gl/3642305.html)
 
-```
+```text
 ...\Documents\My Games\NieR_Automata
 ```
 

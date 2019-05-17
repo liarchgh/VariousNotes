@@ -3,15 +3,16 @@
 * [Shadowsocks Server](https://shadowsocks.org/)
 
 快速搭建:
-```shell
+
+```text
 wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
 chmod +x shadowsocks.sh
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log
-
 ```
 
-[json样例(支持ipv6、多端口)](./shadowsocks.json):
-```json
+[json样例\(支持ipv6、多端口\)](https://github.com/liarchgh/VariousNotes/tree/13bea8773e08adf38cc6494f19ed8c7f2f633782/linux/shadowsocks.json):
+
+```javascript
 {
 "server":"::",
 "local_address":"127.0.0.1",
@@ -39,8 +40,8 @@ chmod +x shadowsocks.sh
 
   [AriaNg](https://github.com/mayswind/AriaNg)  
   Aria2的Web前端，放在[服务器](https://www.jianshu.com/p/5e42c1031fb5)、客户机都可以
-  
-  [我的配置文件`~/aria2.conf`](aria2.conf)
+
+  [我的配置文件`~/aria2.conf`](https://github.com/liarchgh/VariousNotes/tree/13bea8773e08adf38cc6494f19ed8c7f2f633782/linux/aria2.conf)
 
 * [catimg](https://github.com/posva/catimg)
 
@@ -116,7 +117,6 @@ chmod +x shadowsocks.sh
   ```
 
 * [docker](../anonymous/docker.md)
-
 * [Nginx](https://www.nginx.com/)
 
   Debian/Ubuntu安装:
@@ -142,3 +142,4 @@ chmod +x shadowsocks.sh
 * [MLDonkey](http://mldonkey.sourceforge.net/Main_Page)
 
   下载器，支持ed2k、BT等
+

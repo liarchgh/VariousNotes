@@ -26,21 +26,21 @@ NAS
 
 ### [当前状态和数据（温度、CPU、内存、硬盘）](http://shumeipai.nxez.com/2014/10/04/get-raspberry-the-current-status-and-data.html)
 
-```python3
+```text
 import os
 import time
 
 # global var
 global CPU_temp
 global CPU_usage
-                 
+
 # RAM information
 # Output is in kb
 global RAM_stats
 global RAM_total
 global RAM_used
 global RAM_free
-                 
+
 # Disk informatio
 global DISK_stats
 global DISK_total
@@ -88,14 +88,14 @@ def getInfo():
     # global var
     global CPU_temp
     global CPU_usage
-                     
+
     # RAM information
     # Output is in kb
     global RAM_stats
     global RAM_total
     global RAM_used
     global RAM_free
-                     
+
     # Disk informatio
     global DISK_stats
     global DISK_total
@@ -124,14 +124,14 @@ if __name__ == '__main__':
         # global var
         global CPU_temp
         global CPU_usage
-                         
+
         # RAM information
         # Output is in kb
         global RAM_stats
         global RAM_total
         global RAM_used
         global RAM_free
-                         
+
         # Disk informatio
         global DISK_stats
         global DISK_total
@@ -155,7 +155,6 @@ if __name__ == '__main__':
         print('DISK Used Percentage = '+str(DISK_perc))
         print('================================')
         time.sleep(1)
-
 ```
 
 ### Samba文件共享

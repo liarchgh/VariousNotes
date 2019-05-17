@@ -1,10 +1,10 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 
 ## Anonymous
 
-* [Description](anonymous/readme.md)
+* [Description](anonymous/anonymous.md)
 * [Image Hosting Web Site](anonymous/image_hosting_web_site.md)
 * [游戏存档位置](anonymous/you-xi-cun-dang-wei-zhi.md)
 * [GitBook](anonymous/gitbook.md)
@@ -14,7 +14,6 @@
 * [Git](anonymous/git.md)
 * [python应用](anonymous/pythonying-yong.md)
 * [Windows](anonymous/windowsying-yong.md)
-* [Vimrc](anonymous/vimrc.md)
 * [RaspberryPi](anonymous/raspberrypi.md)
 * [Firefox](anonymous/firefox.md)
 * [Docker](anonymous/docker.md)

@@ -10,15 +10,17 @@
 
 不能使用系统资源管理器或者终端重命名，否则git只能识别为删除`a.md`并添加`b.md`。
 
-
 ## alias
+
 终端命令
-```shell
+
+```text
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
 
 配置文件
-```gitconfig
+
+```text
 [alias]
     # brif commit history
     lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
@@ -29,7 +31,8 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 ```
 
 ## config
-```gitconfig
+
+```text
 [core]
     autocrlf = false
     compression = -1
@@ -42,13 +45,15 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 
 ## 技巧
 
-- 只Clone源码，不带提交历史
-    ```shell
-    git clone --depth=1 git@github.com:EpicGames/UnrealEngine.git
-    ```
+* 只Clone源码，不带提交历史
 
-- [删除之前的提交，只保留最后X次](https://blog.czbix.com/remove-git-history.html)
-    ```shell
+  ```text
+    git clone --depth=1 git@github.com:EpicGames/UnrealEngine.git
+  ```
+
+* [删除之前的提交，只保留最后X次](https://blog.czbix.com/remove-git-history.html)
+
+  ```text
     git cat-file commit master^X | sed -e '/^parent/ d' > tmpfile
     git rebase --onto $(git hash-object -t commit -w tmpfile) master
     rm -f tmpfile
@@ -58,4 +63,5 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
     # 要想完全删除的话,执行以下代码
     rm -rf .git/logs
     git gc
-    ```
+  ```
+

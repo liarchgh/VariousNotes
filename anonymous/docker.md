@@ -9,26 +9,30 @@
 * [Linux](https://docs.docker.com/install/)
 
   按照步骤来
-  
+
 ## Repositories
 
 ### hello-world
 
 测试docker是否可以正常使用
 
-x86_64:  
-```shell
+x86\_64:
+
+```text
 sudo docker run hello-world
 ```
 
-armhf:  
-```shell
+armhf:
+
+```text
 sudo docker run armhf/hello-world
 ```
+
 ### alpine
 
 超小空间占用的linux镜像
-  
+
 ## Docker Hub
 
 [Official Docker Hub](https://hub.docker.com)
+
