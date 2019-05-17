@@ -49,7 +49,7 @@
 
 [安装步骤](https://github.com/lukesampson/scoop#installation)
 
-### [Adobe Flash Player 29.0.0.140](https://github.com/liarchgh/VariousNotes/tree/13bea8773e08adf38cc6494f19ed8c7f2f633782/Files/Adobe_Flash_Player_29.0.0.140.7z)
+### [Adobe Flash Player 29.0.0.140](https://github.com/liarchgh/VariousNotes/raw/master/Files/Adobe_Flash_Player_29.0.0.140.7z)
 
 最后一个可用的非大陆特供版，没有弹窗广告和霸王协议
 
