@@ -43,6 +43,25 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
     helper = manager
 ```
 
+## SVN
+
+使用git与svn仓库进行交互
+
+### [克隆SVN仓库](https://cloud.tencent.com/developer/article/1363281)
+
+```text
+git svn clone https://svn.company.com SVNProjectPath --revision 1:HEAD
+```
+
+### 获取仓库更新
+
+```text
+# 仅拉取，不移动本地分支
+git svn fetch
+# 与git rebase类似，拉取远程svn仓库并自动移动本地分支到最新
+git svn rebase
+```
+
 ## 技巧
 
 * 只Clone源码，不带提交历史
