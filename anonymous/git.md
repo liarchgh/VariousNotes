@@ -62,6 +62,14 @@ git svn fetch
 git svn rebase
 ```
 
+### Ref
+
+[如何用git-svn复制最后从一个Subversion n 修订存储库？_git_帮酷编程知识库](https://ask.helplib.com/git/post_84997)
+
+[学习使用 git-svn - 程序园](http://www.voidcn.com/article/p-wapentun-zg.html)
+
+[Git - git-svn Documentation](https://git-scm.com/docs/git-svn)
+
 ## 技巧
 
 * 只Clone源码，不带提交历史
