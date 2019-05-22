@@ -11,7 +11,6 @@
 * [字符画](anonymous/zi-fu-hua.md)
 * [UsefulSoftware](anonymous/software.md)
 * [Python3](anonymous/python3.md)
-* [Git](anonymous/git.md)
 * [python应用](anonymous/pythonying-yong.md)
 * [Windows](anonymous/windowsying-yong.md)
 * [RaspberryPi](anonymous/raspberrypi.md)
