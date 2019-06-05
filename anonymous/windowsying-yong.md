@@ -2,9 +2,17 @@
 
 ## Win32应用
 
+### [Trello](https://trello.com/)
+
+团队进度管理，个人也可以使用，比Microsoft的Todo功能多一些，同步速度更快
+
+[Microsoft Store](https://www.microsoft.com/en-US/store/p/trello/9nblggh4xxvw?rtc=1), [Google Play](https://play.google.com/store/apps/details?id=com.trello), [App Store](https://itunes.apple.com/app/trello-organize-anything/id461504587)
+
 ### [Resilio Sync](https://www.resilio.com/individuals-sync/)
 
 不同设备间同步文件，也可用作传输文件、分享文件
+
+伴随着最近中美贸易战，国内彻底用不了了
 
 [Win\_x64](https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe), [Win\_x32](https://download-cdn.resilio.com/stable/windows/Resilio-Sync.exe), [MicrosoftStore](http://www.windowsphone.com/s?appid=61b549d6-0d88-4db3-b336-670473e4b7ef), [GooglePlay](https://play.google.com/store/apps/details?id=com.resilio.sync&referrer=utm_source%3Dresilio%26utm_medium%3Ddownloads%26utm_campaign%3Dhome), [AppStore](https://itunes.apple.com/us/app/id1126282325), [Linux\_x64](https://download-cdn.resilio.com/stable/linux-x64/resilio-sync_x64.tar.gz), [Linux\_ARM](https://download-cdn.resilio.com/stable/linux-arm/resilio-sync_arm.tar.gz)
 
