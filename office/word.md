@@ -20,3 +20,6 @@
 把**段落**中的**行距**改为*单倍行距*
 
 ## Refs
+
+[同一篇Word文档设置多个不同的页眉页脚_天极网](http://soft.yesky.com/office/163/2190663.shtml)  
+[论文页眉设置奇数偶数页不同页眉，奇数页为各章题目，偶数页为论文题目 - 龍   博客 - CSDN博客](https://blog.csdn.net/u013928917/article/details/79627988)
