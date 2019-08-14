@@ -6,6 +6,9 @@
 
 麻烦的是身份验证和权限管理部分
 
+> 注意： 
+> 选取的物理位置下的第一级文件名只能由字母和数字组成
+
 ### Refs
 
 - [IIS搭建的http文件服务器 - HackerVirus - 博客园](https://www.cnblogs.com/Leo_wl/p/5727539.html)
